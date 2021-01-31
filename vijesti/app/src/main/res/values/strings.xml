@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Vijesti</string>
+    <string name="naslov">Nslov</string>
+    <string name="rubrika">Rubrika</string>
+    <string name="nazad">Nazad</string>
+    <string name="slika">Slika</string>
+    <string name="izmjena">Izmjeni vijest</string>
+    <string name="brisi">Briši vijest</string>
+    <string name="uslikaj">Uslikaj</string>
+    <string name="datum">Datum objave</string>
+    <string name="tekst">Tekst</string>
+    <string name="spremi">Spremi</string>
+
+</resources>

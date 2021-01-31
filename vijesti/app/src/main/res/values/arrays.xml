@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="rubrike">
+        <item>Politika</item>
+        <item>Sport</item>
+        <item>Ekonomija</item>
+        <item>Kultura</item>
+        <item>Zanimljivosti</item>
+        <item>Crna kronika</item>
+    </string-array>
+
+</resources>
